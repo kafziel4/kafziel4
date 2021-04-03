@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Keoma
 
-A QA Analyst from Brazil.
+A QA Engineer from Brazil.
 
 <p align="center">
   <a href= https://www.linkedin.com/in/keoma-baudin-298b84165/ "rel=nofollow">
