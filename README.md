@@ -3,7 +3,7 @@
 A QA Engineer from Brazil.
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kafziel4&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kafziel4&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kafziel4&layout=compact&theme=tokyonight&hide_border=true)
 
 💻 Some technologies I've used
 
