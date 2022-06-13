@@ -2,7 +2,10 @@
 
 A QA Engineer from Brazil.
 
-💻 Some technologies I've used:
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kafziel4&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kafziel4&layout=compact&theme=tokyonight)
+
+💻 Some technologies I've used
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,7 +22,7 @@ A QA Engineer from Brazil.
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-📫 Reach me on:
+📫 Reach me on
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keoma-baudin-298b84165/)
 
