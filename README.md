@@ -1,35 +1,29 @@
-# Hi there 👋 I'm Keoma
+![Header](./assets/header.png)
 
-A QA Engineer from Brazil.
+> All we have to decide is what to do with the time that is given us. ― Gandalf
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kafziel4&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kafziel4&layout=compact&theme=tokyonight&hide_border=true)
+## 💻 Technologies & Tools
 
-💻 Some technologies I've used
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=c%23)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
-![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+## 📖 Want to lean / improve
 
-📖 Currently learning
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+## ⚡GitHub Stats
 
-📫 Reach me on
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keoma-baudin-298b84165/)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kafziel4&theme=swift)
+![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kafziel4&theme=swift)
+![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kafziel4&theme=swift)
 
 <!--
 **kafziel4/kafziel4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
